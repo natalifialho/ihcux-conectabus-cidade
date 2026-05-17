@@ -1,4 +1,3 @@
-<img width="546" height="229" alt="1000263430" src="https://github.com/user-attachments/assets/05118c16-2c14-403c-84aa-5edd1a57de13" />
 # ConectaBus - Protótipo IHC & UX
 
 ## Integrantes da Equipe
@@ -18,3 +17,5 @@ O aplicativo ConectaBus foi projetado pensando no usuário que está em ambiente
 
 ## Acessibilidade
 O protótipo exibe de forma clara e imediata se o veículo possui rampas de acessibilidade e ar-condicionado. Além disso, as cores de ocupação (Verde, Amarelo e Vermelho) auxiliam pessoas com pressa ou mobilidade reduzida a decidir se devem embarcar ou aguardar o próximo veículo menos lotado.
+
+<img width="546" height="229" alt="1000263430" src="https://github.com/user-attachments/assets/01f41fe4-7295-4d87-a0c1-d2934d73da11" />
