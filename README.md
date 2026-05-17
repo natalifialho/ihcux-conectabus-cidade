@@ -1,3 +1,4 @@
+<img width="546" height="229" alt="1000263430" src="https://github.com/user-attachments/assets/05118c16-2c14-403c-84aa-5edd1a57de13" />
 # ConectaBus - Protótipo IHC & UX
 
 ## Integrantes da Equipe
